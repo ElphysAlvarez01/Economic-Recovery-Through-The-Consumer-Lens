@@ -47,7 +47,7 @@ ________________________________________
 ## Consumer Expectations and Sentiment: A More Synchronized Recovery
 •	Unlike Consumer Current Conditions, Consumer Expectations and Sentiment have moved in closer alignment. Although all metrics are currently in their 70s, Consumer Expectations and Sentiment are closer to the pre-pandemic level than Consumer perceptions of Current Conditions. 
 
-•	In Dec 2019, Consumer Expectations stood at 89 before plunging to a pandemic low of 66 in Jul 2020, then its lowest point of 47 in Jul 2022. Since then, it has rebounded to 73.3 as of Dec 2024. Consumer Sentiment followed a similar trajectory, bottoming out at 71.1 in April 2020 during the pandemic, had a short-lived recovery before bottoming to 50 in July 2022, and recovering to 74.9 as of Dec 2024.
+•	In Dec 2019, Consumer Expectations stood at **89** before plunging to a pandemic low of 66 in Jul 2020, then its lowest point of 47 in Jul 2022. Since then, it has rebounded to **73.3** as of Dec 2024. Consumer Sentiment followed a similar trajectory, bottoming out at **71.1** in April 2020 during the pandemic, had a short-lived recovery before bottoming to **50** in July 2022, and recovering to **74.9** as of Dec 2024.
 
 •	Notably, these measures are now mirroring the recovery patterns observed after the 2008 financial crisis, suggesting a more typical post-recession rebound—though whether the momentum will continue remains to be seen. 
 
@@ -59,6 +59,7 @@ ________________________________________
 
 ## What It Means When Current Conditions Remain Depressed but Expectations & Sentiment Are Improving
 ### Potential Reasons:
+
 1.	Consumers acknowledge current struggles – Wages, inflation, job security, and economic uncertainty might still be weighing heavily on them, which is why their perceptions of current conditions remain low.
 
 2.	They believe things will get better – The improvement in expectations suggests that people see a light at the end of the tunnel, whether due to factors like falling inflation, job market resilience, or broader economic policies.
@@ -88,7 +89,7 @@ Higher-educated consumers have historically reported stronger Consumer Current C
 ________________________________________
 
 ### Index of Consumer Current Conditions – Income Demographic Breakdown
-Surprisingly, while High School or Less consumers reported the lowest Consumer Current Conditions score (53.3), they had the highest Consumer Expectations score (91.3) as of December 2024.
+Surprisingly, while High School or Less consumers reported the lowest Consumer Current Conditions score **(53.3)**, they had the highest Consumer Expectations score **(91.3)** as of December 2024.
 This unexpected optimism spike at year-end raises questions: What caused this shift? Further research is needed to explore potential drivers behind this sentimental change.
 
 ![](images/ICE_EDU2.PNG)
