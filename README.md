@@ -12,7 +12,7 @@
 1.	Cluster Analysis Dashboard – Segments demographics based on sentiment similarities.
 2.	Demographic Group Analysis Dashboard – Provides deeper insights into sentiment variations across groups.
 
-**Link to Tableau Public Dashboard:** 
+**Link to Tableau Public Dashboard:** https://public.tableau.com/app/profile/elphys.alvarez/viz/ConsumerPerspectiveDaashboardSuite/HomePage
 
 ________________________________________
 
