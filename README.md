@@ -10,13 +10,14 @@
 •	Tool: Tableau
 •	Dashboards: A primary dashboard is available (link below). Two additional dashboards are in development:
 1.	Cluster Analysis Dashboard – Segments demographics based on sentiment similarities.
-2.	Demographic Group Analysis Dashboard – Provides deeper insights into sentiment variations across groups.
+2.	Demographic Group Analysis Dashboard – Provides deeper insights into group sentiment variations.
 
 **Link to Tableau Public Dashboard:** https://public.tableau.com/app/profile/elphys.alvarez/viz/ConsumerPerspectiveDaashboardSuite/HomePage
 
 ________________________________________
 
-**Data Source & Preparation** - Downloaded from the University of Michigan’s Surveys of Consumers site (Link here: ). I used Python to restructure the file. This could have also been done with Tableau, but it was more efficient to do it in Python due to the number of columns and demographic groups. 
+**Data Source & Preparation** - Downloaded from the University of Michigan’s Surveys of Consumers site. I used Python to restructure the file. This could have also been done with Tableau, but it was more efficient to do it in Python due to the number of columns and demographic groups. 
+
 Full documentation: A copy of the full document is coming soon! 
 ________________________________________
 ## Series of Dashboard Analysis: 
@@ -74,8 +75,11 @@ The key question is whether this optimism will translate into real economic mome
 ### Index of Consumer Current Conditions – Income Demographic Breakdown
 Higher-educated consumers have historically reported stronger Consumer Current Conditions scores. However, the current gap between education levels is the largest on record.
 •	December 2024 Scores:
+
    o	**Higher-Educated Consumers:** 85.9
+   
    o	**Some College:** 59.6 (↓ 26.3 points)
+   
    o	**High School or Less:** 53.3 (↓ 32.6 points)
 
 ![](images/ICC_Recents.png)
